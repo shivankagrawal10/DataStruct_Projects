@@ -1,7 +1,9 @@
 # Expression Evaluation #
-In this assignment you will implement a program to evaluate an arithmetic expression
+In this assignment I implement a program to evaluate an arithmetic expression
 
-Worth 80 points (8% of course grade)
+To run app, download contents of Exp folder
+- important code is under Exp/src/app
+- the main for testing the program is Exp/src/app/Evaluator.java
 
 ## Expressions ##
 Here are some sample expressions of the kind your program will evaluate:
